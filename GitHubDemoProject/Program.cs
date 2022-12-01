@@ -19,3 +19,6 @@ app.UseAuthorization();
 app.MapRazorPages();
 
 app.Run();
+
+
+// For Demo Purpose I'm adding this command. 
